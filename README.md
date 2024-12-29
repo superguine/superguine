@@ -29,7 +29,7 @@
 
 
 ### Languages I've Used
-![Languages Used](languages_used.png)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=superguine&show_icons=true&theme=tokyonight&locale=en)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superguine&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="superguine" /></p>
