@@ -1,35 +1,173 @@
-<h1 align="center">Hi 👋, I'm Shawon Roy</h1>
-<h3 align="center">A passionate electronics engineer from India, upskilling in CSE.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=superguine&label=Profile%20views&color=ffa50a&style=flat" alt="superguine" /> </p>
+# 👋 Hi, I'm **Shawon Roy**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superguine" alt="superguine" /></a> </p>
+### `CSE` · `Electronics & Hardware`
 
-- 🔭 I’m currently working on:
-  - [Detailed object detection system.](https://github.com/superguine/ODProject)
-  - [MicroNova32](https://github.com/superguine/MicroNova32)
+**Building things at the intersection of software, AI and electronics.**
 
-- 🌱 I’m currently learning **JAVA, Android App development**
-
-- 👯 I’m looking to collaborate on [MicroNova32](https://github.com/superguine/MicroNova32)
-
-- 📫 How to reach me **shawonfedora@gmail.com**
-
-- ⚡ Fun fact **I love to stick to problems as long they are "Problems" & are teaching me something**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shawon-roy-78184923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawon-roy-78184923a" height="30" width="40" /></a>
-<a href="https://fb.com/shawon.roy.54738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shawon.roy.54738" height="30" width="40" /></a>
-<a href="https://instagram.com/s_h_a_w_o_n_r_o_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_h_a_w_o_n_r_o_y" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/superguine">
+    <img src="https://komarev.com/ghpvc/?username=superguine&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superguine&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=20" alt="superguine" /></p>
+## ⚡ `whoami`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superguine&show_icons=true&theme=tokyonight&locale=en" alt="superguine" /></p>
+> **Computer Science Engineer with an Electronics background.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superguine&theme=dark" alt="superguine" /></p>
+I'm interested in understanding how things work — from the **hardware layer** all the way up to **software and AI**.
+
+Currently exploring:
+
+* 🤖 AI-driven Software Development
+* 🧑‍💻 Product Engineering
+* 🌐 Backend Development & APIs
+* ☁️ Cloud & Deployment
+* 🔄 CI/CD & GitHub Workflows
+* ⚡ Embedded Systems & ESP32
+* 🐧 Linux & Developer Tooling
+
+> *"I like to stick with problems as long as they're still problems — and still teaching me something."*
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🪟 [Apps for Windows](https://github.com/superguine/Apps-for-Windows)
+
+A curated collection of **useful, lightweight and practical Windows applications**.
+
+Focused on tools that are actually useful for everyday work, development, productivity and system management.
+
+`Windows` `Portable Apps` `Productivity` `Tools`
+
+**→ [Explore Repository](https://github.com/superguine/Apps-for-Windows)**
+
+</td>
+
+<td width="50%">
+
+### ⚡ [MicroNova32](https://github.com/superguine/MicroNova32)
+
+An ESP32-based experimental platform combining **embedded programming, electronics, sensors and displays**.
+
+`ESP32` `C/C++` `OLED` `Sensors` `Embedded`
+
+**→ [Explore Repository](https://github.com/superguine/MicroNova32)**
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 👁️ [Object Detection System](https://github.com/superguine/ODProject)
+
+An experimental computer-vision project focused on **object detection and image processing**.
+
+`Python` `OpenCV` `AI/ML` `Computer Vision`
+
+**→ [Explore Repository](https://github.com/superguine/ODProject)**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+### 🔧 Development & Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
+</p>
+
+### 🤖 AI / Computer Vision / Embedded
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=superguine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superguine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=superguine&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:shawonfedora@gmail.com">
+<img src="https://img.shields.io/badge/Email-shawonfedora@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shawon-roy-78184923a">
+<img src="https://img.shields.io/badge/LinkedIn-Shawon%20Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/superguine">
+<img src="https://img.shields.io/badge/GitHub-superguine-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/s_h_a_w_o_n_r_o_y">
+<img src="https://img.shields.io/badge/Instagram-s_h_a_w_o_n_r_o_y-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+$ build
+$ break
+$ understand
+$ improve
+$ repeat
+```
+
+### 🧠 More projects. More experiments. More things to understand.
+
+**— Build something meaningful.**
+
+</div>
